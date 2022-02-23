@@ -1,4 +1,4 @@
-/* Time-stamp: <2022-02-23 12:21:04 kmodi> */
+/* Time-stamp: <2022-02-23 12:23:53 kmodi> */
 
 /* Iosevka */
 /* https://css-tricks.com/snippets/css/using-font-face/ */
@@ -7,25 +7,25 @@
 /* Also http://whyarethingsthewaytheyare.com/trying-out-iosevka-font/ */
 @font-face {
     font-family: 'Iosevka';
-    src: url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@1.14.4/woff2/iosevka-ss08-regular.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@1.14.4/woff/iosevka-ss08-regular.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@v1.14.5/woff2/iosevka-ss08-regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@v1.14.5/woff/iosevka-ss08-regular.woff') format('woff');
 }
 @font-face {
     font-family: 'Iosevka';
-    src: url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@1.14.4/woff2/iosevka-ss08-italic.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@1.14.4/woff/iosevka-ss08-italic.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@v1.14.5/woff2/iosevka-ss08-italic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@v1.14.5/woff/iosevka-ss08-italic.woff') format('woff');
     font-style: italic;
 }
 @font-face {
     font-family: 'Iosevka';
-    src: url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@1.14.4/woff2/iosevka-ss08-bold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@1.14.4/woff/iosevka-ss08-bold.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@v1.14.5/woff2/iosevka-ss08-bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@v1.14.5/woff/iosevka-ss08-bold.woff') format('woff');
     font-weight: bold;
 }
 @font-face {
     font-family: 'Iosevka';
-    src: url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@1.14.4/woff2/iosevka-ss08-bolditalic.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@1.14.4/woff/iosevka-ss08-bolditalic.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@v1.14.5/woff2/iosevka-ss08-bolditalic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/kaushalmodi/iosevka-mirror@v1.14.5/woff/iosevka-ss08-bolditalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
 }
